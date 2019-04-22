@@ -1,0 +1,19 @@
+{
+  "name": "es6_demo2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TAIJI-zhanghd/ES6_test2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TAIJI-zhanghd/ES6_test2/issues"
+  },
+  "homepage": "https://github.com/TAIJI-zhanghd/ES6_test2#readme"
+}
